@@ -10,6 +10,7 @@ function App() {
   return (
     <>
       <Navbar/>
+      hiii
       <Outlet/>
       <Footer/>
     </>
